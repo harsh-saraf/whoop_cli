@@ -2,8 +2,6 @@
 
 Your WHOOP data, from the terminal. Built for humans and agents.
 
-> Based on [whoopskill](https://github.com/koala73/whoopskill) by [@koala73](https://github.com/koala73).
-
 ## Install
 
 ```bash
